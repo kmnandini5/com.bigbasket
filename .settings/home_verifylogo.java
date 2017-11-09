@@ -23,7 +23,7 @@ public class home_verifylogo extends Basetest{
 	@Test
 	public void logo() throws InterruptedException
 	{
-		
+	//loginpage lp=new loginpage()	
 	  HomePage hp= new HomePage(driver);
 		
 	  hp.logo();
